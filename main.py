@@ -60,4 +60,4 @@ with st.sidebar:
         pass
     
 with container:
-    container.write("Início")
+    container.empty()
